@@ -11,7 +11,8 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/iogamers/season-1/raw/main/client.zip">download client.zip</a> (mods)<br>
+			<a href="https://github.com/iogamers/season-1/raw/main/client.zip">client.zip</a> (mods)<br>
+			<a href="https://github.com/iogamers/season-1/raw/main/bibliophilia-1-3.zip">bibliophilia-1-3.zip</a> (optional resourcepack for unique enchanted book textures)
 			<details>
 				<summary>modlist</summary>
 				- appleskin-fabric-mc1.19-2.4.1<br>
@@ -58,7 +59,7 @@
 			</details>
 		</td>
 		<td>
-			<a href="https://github.com/iogamers/season-1/raw/main/server.tar.xz">download server.tar.xz</a> (mods, configs, world)
+			<a href="https://github.com/iogamers/season-1/raw/main/server.tar.xz">server.tar.xz</a> (mods, configs, world)
 			<details>
 				<summary>modlist</summary>
 				- appleskin-fabric-mc1.19-2.4.1<br>
@@ -124,8 +125,6 @@
 		</td>
 	</tr>
 </table>
-
-there's also an optional resource pack called [Bibliophilia](https://github.com/iogamers/season-1/raw/main/bibliophilia-1-3.zip) that gives unique textures for each enchanted book
 
 <h2 align="center">playerlist</h2>
 
